@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-webapps",
+  "version": "1.0.0",
+  "description": " A sample nodejs application on Azure",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Delphine Forteh dngwenyi@yahoo.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}
